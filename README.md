@@ -1,60 +1,102 @@
-# Hey, I'm Kashish Baliyan 👋
+# Hi, I'm Kashish Baliyan 👋
 
-> B.Tech Computer Science Student · Building things that matter.
+**B.Tech Computer Science (3rd Year) · Building things at the intersection of AI and software engineering**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kashishbaliyan)
+I'm a CS student who enjoys solving problems through code. Most of my work right now sits at the intersection of machine learning and practical applications — I've been particularly drawn to computer vision and accessibility-focused AI. Outside of projects, I spend a fair amount of time on DSA and getting better at writing clean, maintainable code.
+
+Currently preparing for SWE internships in 2026 and looking to contribute to open source along the way.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Skills & Technologies
 
-| Language / Tool | Focus |
-|---|---|
-| C++ | Primary language, competitive programming |
-| Python | ML, scripting, automation |
-| DSA | Competitive problem solving |
-| Machine Learning | Supervised learning, computer vision |
-| OpenCV | Real-time gesture & image processing |
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**CS Fundamentals**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-grey?style=flat-square)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-grey?style=flat-square)
+
+**AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📚 Currently Working On
+
+- Grinding DSA — focusing on trees, graphs, and dynamic programming
+- Deepening understanding of ML fundamentals beyond just using libraries
+- Exploring system design concepts
+- Looking for open-source projects to contribute to
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤟 Multilingual Sign Language Translator
-> Translates sign language gestures across multiple languages in real time using computer vision and ML classifiers — bridging the communication gap for the hearing-impaired community.
+> An AI-powered system that recognizes sign language gestures and translates them across multiple languages in real time.
 
-`Python` `OpenCV` `Machine Learning` `NLP`
+Built to make communication more accessible for the hearing-impaired community. Uses computer vision for gesture detection and ML models for classification and translation.
 
----
-
-### ✋ Real-Time Sign Language → Text Converter
-> Live gesture recognition pipeline that converts hand signs to readable text with low latency, trained on custom gesture datasets.
-
-`Python` `OpenCV` `CNN` `Real-Time`
+**Stack:** Python · OpenCV · Machine Learning · NLP  
+🔗 [View Repository](#) *(link coming soon)*
 
 ---
 
-## 📚 Currently Learning
+### ✋ Real-Time Sign Language to Text Converter
+> Converts hand signs to readable text with low latency using a custom-trained gesture recognition pipeline.
 
-- 🌳 **Data Structures & Algorithms** — daily grinding
-- 🖥️ **System Design Basics** — exploring foundations
-- 🧠 **AI / ML** — deepening practical knowledge
+Trained on a custom gesture dataset with focus on real-time inference performance.
 
----
-
-## 🏆 Goals for 2025
-
-- [ ] 💼 Land a Software / ML Engineering internship
-- [ ] 📈 Master DSA & competitive problem solving
-- [ ] 🤝 Make meaningful open source contributions
+**Stack:** Python · OpenCV · CNN  
+🔗 [View Repository](#) *(link coming soon)*
 
 ---
 
-## 📫 Connect With Me
-
-- 🔗 **LinkedIn:** [Add your LinkedIn](https://linkedin.com)
-- 📧 **Email:** Add your email
+### 📁 Project 3 — Coming Soon
+> Currently in planning. Will be added here once it reaches a shareable state.
 
 ---
 
-*— always building, always learning.*
+### 📁 Project 4 — Coming Soon
+> Placeholder for a future project.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kashish's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+I'm always open to discussing CS concepts, project ideas, internship opportunities, or just connecting with fellow students and engineers.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kashish_Baliyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:baliyank2005@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="Profile visitors" />
+</p>
