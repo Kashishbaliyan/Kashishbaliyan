@@ -51,7 +51,7 @@ Currently preparing for SWE internships in 2026 and looking to contribute to ope
 Built to make communication more accessible for the hearing-impaired community. Uses computer vision for gesture detection and ML models for classification and translation.
 
 **Stack:** Python · OpenCV · Machine Learning · NLP  
-🔗 [View Repository](#) *(link coming soon)*
+🔗 [View Repository](#) 
 
 ---
 
@@ -61,29 +61,21 @@ Built to make communication more accessible for the hearing-impaired community. 
 Trained on a custom gesture dataset with focus on real-time inference performance.
 
 **Stack:** Python · OpenCV · CNN  
-🔗 [View Repository](#) *(link coming soon)*
+🔗 [View Repository](#) 
 
 ---
-
-### 📁 Project 3 — Coming Soon
-> Currently in planning. Will be added here once it reaches a shareable state.
-
----
-
-### 📁 Project 4 — Coming Soon
-> Placeholder for a future project.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kashish's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kashishbaliyan &show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kashish's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishbaliyan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kashishbaliyan&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
