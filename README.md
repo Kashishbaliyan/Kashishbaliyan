@@ -70,15 +70,12 @@ Trained on a custom gesture dataset with focus on real-time inference performanc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kashishbaliyan &show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Kashish's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishbaliyan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashishbaliyan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kashishbaliyan&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Kashishbaliyan&theme=github-dark&hide_border=true" />
 </p>
-
----
 
 ## 🔗 Connect With Me
 
