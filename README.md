@@ -86,6 +86,4 @@ I'm always open to discussing CS concepts, project ideas, internship opportuniti
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="Profile visitors" />
-</p>
+
